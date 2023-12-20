@@ -132,5 +132,8 @@ calc.html
 ![Alt text](cal.png)
 ![Alt text](calc.png)
 
+
+
 ## RESULT:
+
 The program for designing a standard calculator using HTML and CSS is executed successfully.

@@ -129,7 +129,13 @@ calc.html
 ```
 
 ## OUTPUT:
+
+Operation performed:
+
 ![Alt text](cal.png)
+
+Answer
+
 ![Alt text](calc.png)
 
 

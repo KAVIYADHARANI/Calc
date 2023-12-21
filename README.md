@@ -74,7 +74,7 @@ calc.html
             <input type="button" onkeydown="op(event)" onclick="f('5')" value="5">
             <input type="button" onkeydown="op(event)" onclick="f('6')" value="6">
             <input type="button" onkeydown="op(event)" onclick="f('*')" value="x">
-            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="^0.5"><br><br>
+            <input type="button" onkeydown="op(event)" onclick="f('^0.5')" value="&radic;"><br><br>
     
             <input type="button" onkeydown="op(event)" onclick="f('1')" value="1">
             <input type="button" onkeydown="op(event)" onclick="f('2')" value="2">
@@ -131,13 +131,12 @@ calc.html
 ## OUTPUT:
 
 Operation performed:
+![Alt text](calc2.png)
 
-![Alt text](cal.png)
 
 Answer
 
-![Alt text](calc.png)
-
+![Alt text](calc3.png)
 
 
 ## RESULT:
